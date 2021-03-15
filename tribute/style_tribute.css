@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700|Oswald);@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+body{
+
+    background-color: #D3D3D3;
+}
+
+body.white{
+    background-color:#fff;background-image:none
+}
+.container{
+    background-color:#fff;
+    text-align: center;
+    
+}
+.contain img {
+    vertical-align: middle;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+.text-center{text-align:center}
+
+
+
+.align-center{
+margin-left: 150px;
+display:block;
+max-width :800px;
+word-wrap:break-word;
+
+}
+
+li p{
+    font-size: 16px;
+    
+font-family: sans-serif;
+}
+
+blockquote{
+    margin-left: 150px;
+    font-size: 14px;
+    font-style: italic;
+    
+    font-family: sans-serif;
+
+}
